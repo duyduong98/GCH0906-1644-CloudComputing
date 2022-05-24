@@ -2,5 +2,9 @@ Hello Everyone
 Good morning !
 
 Duong: First. Second. 3. 4.
+<<<<<<< HEAD
 
 Hello Everybody
+=======
+Vind: Second . Third 5 .6
+>>>>>>> 78dbe9d0ce4ef821d75706a9cbe8650bc55c00e3
