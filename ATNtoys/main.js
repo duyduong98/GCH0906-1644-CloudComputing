@@ -1,7 +1,7 @@
 var express = require('express')
 var app = express()
 const async = require('hbs/lib/async')
-var url = 'mongodb+srv://duyduong98:221198aa@cluster0.ach4g.mongodb.net/test';
+var url = 'mongodb+srv://duyduong98:<pass>@cluster0.ach4g.mongodb.net/test';
 
 app.set('view engine', 'hbs')
 app.use(express.urlencoded({ extended:true }))
